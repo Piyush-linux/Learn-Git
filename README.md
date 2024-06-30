@@ -1,7 +1,5 @@
 # GIT
 
----
-
 ### Git Tutorial for Beginners
 
 #### 1. What is Git?
