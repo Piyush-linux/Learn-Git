@@ -2,10 +2,6 @@
 
 ---
 
-Certainly! Here's a beginner-friendly Git tutorial that covers the essential concepts and commands to get you started:
-
----
-
 ### Git Tutorial for Beginners
 
 #### 1. What is Git?
